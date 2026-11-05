@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-November 4, 2026 at 05:12:13 AM UTC
+November 5, 2026 at 05:33:51 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ November 4, 2026 at 05:12:13 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (585)
+## Papers (589)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -608,6 +608,10 @@ November 4, 2026 at 05:12:13 AM UTC
 - [eCAS: An Orbital Embedding Method for Quantum Computing](https://arxiv.org/abs/2610.41517)
 - [On Revolutionizing Power Systems: Suitability of Quantum Computing-Ready Pipelines for Stochastic Unit Commitment Optimization](https://arxiv.org/abs/2611.05030)
 - [Reasoning about Shared-Qubit Concurrency in Quantum Computing](https://arxiv.org/abs/2611.04274)
+- [Resource-efficient formulations of the Knapsack problem for quantum computing](https://arxiv.org/abs/2611.06797)
+- [Quantum Computing for Entanglement Asymmetry and the Quantum Mpemba Effect in Field Theory](https://arxiv.org/abs/2611.05987)
+- [Trinetra.Q: Statistical and Behavioral Detection of Attacks on the Quantum-Error-Correction Layer and Classical Control Stack of Quantum Computing Systems](https://arxiv.org/abs/2611.05722)
+- [Quantum computing for high energy nuclear physics](https://arxiv.org/abs/2611.05491)
 
 
 ### Theorem
