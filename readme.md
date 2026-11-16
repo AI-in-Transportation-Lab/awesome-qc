@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-November 15, 2026 at 05:16:50 AM UTC
+November 16, 2026 at 05:14:49 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ November 15, 2026 at 05:16:50 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (599)
+## Papers (600)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -622,6 +622,7 @@ November 15, 2026 at 05:16:50 AM UTC
 - [The simulability frontiers of photonic quantum computing](https://arxiv.org/abs/2611.12876)
 - [Accelerating Distributed Variational Quantum Computing over Wireless Networks with Incentive Mechanism Design](https://arxiv.org/abs/2611.16155)
 - [Quantum Computing in Power Systems:Current Landscape and Future Roadmap with AI](https://arxiv.org/abs/2611.15171)
+- [Efficient Iterative Symmetrization algorithm for quantum computing and hadron applications](https://arxiv.org/abs/2611.18091)
 
 
 ### Theorem
