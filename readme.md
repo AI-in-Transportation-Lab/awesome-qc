@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-November 16, 2026 at 05:14:49 AM UTC
+November 17, 2026 at 06:57:29 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ November 16, 2026 at 05:14:49 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (600)
+## Papers (602)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -623,6 +623,8 @@ November 16, 2026 at 05:14:49 AM UTC
 - [Accelerating Distributed Variational Quantum Computing over Wireless Networks with Incentive Mechanism Design](https://arxiv.org/abs/2611.16155)
 - [Quantum Computing in Power Systems:Current Landscape and Future Roadmap with AI](https://arxiv.org/abs/2611.15171)
 - [Efficient Iterative Symmetrization algorithm for quantum computing and hadron applications](https://arxiv.org/abs/2611.18091)
+- [AI-Enabled Qubit Loss Detection and Replenishment Strategy for Atom Array Quantum Computing](https://arxiv.org/abs/2604.14269)
+- [Quantum Computing-Based Wasserstein Generative Adversarial Networks for Airfoil Parameterization](https://arxiv.org/abs/2611.20602)
 
 
 ### Theorem
